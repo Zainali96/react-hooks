@@ -1,4 +1,15 @@
+# useCurrentLocation Hook (with Expo Location)
+
+A custom React hook built with [Expo Location](https://docs.expo.dev/versions/latest/sdk/location/) to retrieve the user's current geographic location in React Native apps.
+
+## Requirements
+
+- **Expo SDK** (React Native with Expo)
+- **expo-location** installed
+
 ## Installation
+
+Install the required package:
 
 ```bash
 npx expo install expo-location
