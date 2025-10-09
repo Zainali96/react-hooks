@@ -19,7 +19,7 @@ const YourComponent = () => {
           Your location: Latitude {location.latitude}, Longitude {location.longitude}
         </Text>
       ) : (
-        <p>Getting your location...</p>
+        <Text>Getting your location...</Text>
       )}
     </View>
   );
